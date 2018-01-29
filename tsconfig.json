@@ -8,6 +8,6 @@
 		"sourceMap": true
 	},
 	"files": [
-		"033_decorator_example_angular.ts"
+		"012_conditional_operators.ts"
 	]
 }
