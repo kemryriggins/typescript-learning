@@ -7,8 +7,8 @@
 // }
 
 // printAddress('710 Street');
-// printAddress('710 Gone Bye Bye Street', 'Suite 420');
-// printAddress('710 Gone Bye Bye Street', 'Suite 420', 'UT');
+// printAddress('710 Gone Street', 'Suite 420');
+// printAddress('710 Gone Street', 'Suite 420', 'UT');
 
 function lineupCard(team: string, ...players: string[]) {
 	console.log('Team: ' + team);
