@@ -6,7 +6,7 @@ let age : number = 33;
 var taxRate : number = 7.5;
 
 // String
-var fullName : string = "Jordan Hudgens";
+var fullName : string = "Kemry Riggins";
 
 // Array
 var ages : number[] = [33, 28, 11];
@@ -20,7 +20,7 @@ enum ApprovalStatus {Approved, Pending, Rejected};
 let job : ApprovalStatus = ApprovalStatus.Pending;
 
 // Any
-var apiData : any[] = [123, 'Jordan', false];
+var apiData : any[] = [123, 'Kemry', false];
 
 // Void
 function printOut(msg: string) : void {

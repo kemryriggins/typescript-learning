@@ -2,9 +2,9 @@ var fullName = (first, last) => {
 	return first + " " + last;
 }
 
-console.log(fullName('Jordan', 'Hudgens'));
+console.log(fullName('Kemry', 'Riggins'));
 
-// Jordan Hudgens
+// Kemry Riggins
 var gradeGenerator = (grade: number) : string => {
   if (grade < 60) {
   	return 'F';

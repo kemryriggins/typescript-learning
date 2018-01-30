@@ -1,8 +1,8 @@
 var fullName = function (first, last) {
     return first + " " + last;
 };
-console.log(fullName('Jordan', 'Hudgens'));
-// Jordan Hudgens
+console.log(fullName('Kemry', 'Riggins'));
+// Kemry Riggins
 var gradeGenerator = function (grade) {
     if (grade < 60) {
         return 'F';
