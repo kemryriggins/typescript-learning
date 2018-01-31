@@ -8,6 +8,6 @@
 		"sourceMap": true
 	},
 	"files": [
-		"019_closure_introduction.ts"
+		"021_inheritance.ts"
 	]
 }
