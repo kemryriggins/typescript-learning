@@ -1,13 +1,10 @@
 {
 	"compilerOptions": {
 		"module": "amd",
-		// "target": "es6", // sudo typings install dt~es6-promise dt~es6-collections --global --save
-		"target": "ES5",
-		"experimentalDecorators": true,
-		"emitDecoratorMetadata" : true,
+		"target": "es6", // sudo typings install dt~es6-promise dt~es6-collections --global --save
 		"sourceMap": true
 	},
 	"files": [
-		"028_higher_order_functions_callbacks.ts"
+		"030_decorator_introduction.ts"
 	]
 }
