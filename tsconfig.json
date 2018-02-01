@@ -5,6 +5,6 @@
 		"sourceMap": true
 	},
 	"files": [
-		"030_decorator_introduction.ts"
+		"033_decorator_example_angular.ts"
 	]
 }
